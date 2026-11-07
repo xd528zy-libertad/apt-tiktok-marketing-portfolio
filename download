@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-.env
-.env.*
-~$*
-.DS_Store
-data/private_evidence/*
-!data/private_evidence/README.md
